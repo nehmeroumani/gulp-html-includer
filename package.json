@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-includer",
-  "version": "1.3.3",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -12,7 +12,7 @@
     "tag",
     "dot"
   ],
-  "author": "nickham-su",
+  "author": "nehmeroumani",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.22.0",
